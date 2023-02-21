@@ -1,1 +1,4 @@
 Hello world
+
+git remote add origin https://github.com/Askarkub/JS-FirstSteps.git - как связать проект
+git push -u origin master Добавить проект (запушить)
